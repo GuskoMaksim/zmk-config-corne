@@ -22,6 +22,11 @@
             bindings = <&kp LG(SPACE)>;
             key-positions = <17 18>;
         };
+
+        block {
+            bindings = <&kp LG(L)>;
+            key-positions = <10 11>;
+        };
     };
 
     behaviors {
